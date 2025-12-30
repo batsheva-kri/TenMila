@@ -22,3 +22,5 @@ Thumbs.db
 # Build output
 build/
 dist/
+
+Node/DAL/MongoConnect.js
